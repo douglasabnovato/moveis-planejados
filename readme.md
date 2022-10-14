@@ -5,7 +5,7 @@ Conteúdo de sete projetos em fotos para criar os layouts.
 
 ### Requisitos
 
-- [x] Dois projetos expostos
+- [x] Dois projetos expostos: 1 e 2
 - [x] visualizar em dispositivos: smartphones, tablets e desktops
 
 ### Inspiração
