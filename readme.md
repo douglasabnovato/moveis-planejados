@@ -1,11 +1,12 @@
 ### Móveis Planejados
 
 Aplicação para expor detalhes de projetos e imagens que demonstram durante o processo e depois de montado.
+Conteúdo de sete projetos em fotos para criar os layouts.
 
 ### Requisitos
 
-- [ ] Elemento de paginação para cada um dos projetos estarem em um número
-- [ ] visualizar em dispositivos: smartphones, tablets e desktops
+- [x] Dois projetos expostos
+- [x] visualizar em dispositivos: smartphones, tablets e desktops
 
 ### Inspiração
 
