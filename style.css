@@ -16,3 +16,10 @@ h5 {
 .w3-third img:hover {
     opacity: 1;
 }
+
+.avatar-marc {
+    vertical-align: middle;
+  width: 320px;
+  height: 320px;
+  border-radius: 50%;
+}
