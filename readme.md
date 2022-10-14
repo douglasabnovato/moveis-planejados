@@ -7,8 +7,14 @@ Conteúdo de sete projetos em fotos para criar os layouts.
 
 - [x] Dois projetos expostos: 1 e 2
 - [x] visualizar em dispositivos: smartphones, tablets e desktops
+- [ ] Contato e redes sociais na navbar
 
 ### Inspiração
 
 - [Inspiração 1](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_portfolio2&stacked=h)
 - [Inspiração 2](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_apartment_rental&stacked=h)
+
+### Próximo passo
+
+- [ ] Aperfeiçoar os textos
+- [ ] Fazer o fluxo do uso para entender o objetivo
